@@ -28,9 +28,7 @@ The following **additional** features are implemented:
 <img src='Wordle_gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
