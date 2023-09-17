@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Osaze Imohe**
 
-**Name of your app** is an app that ... [TODO] 
+**Name of your app** is an app that allows the user to guess a random word
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='BitFit1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ezgif.com-video-to-gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
