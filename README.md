@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='ezgif.com-video-to-gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='wordle_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
