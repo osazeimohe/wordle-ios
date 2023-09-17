@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='Wordle_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Wordle_gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
